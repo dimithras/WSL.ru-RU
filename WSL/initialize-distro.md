@@ -9,7 +9,7 @@ ms.openlocfilehash: 7ce4455dd4ab5e75d69ba841d7dfb7963af9c891
 ms.sourcegitcommit: 3fb40fd65b34a5eb26b213a0df6a3b2746b7a9b4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/12/2020
+ms.lasthandoff: 05/31/2020
 ms.locfileid: "83235795"
 ---
 # <a name="initializing-a-newly-installed-distribution"></a>Инициализация недавно установленного дистрибутива
@@ -60,6 +60,7 @@ sudo apt update && sudo apt upgrade
 
 Ниже перечислены возможные ошибки и способы их устранения. Другие распространенные ошибки и способы их устранения приведены в разделе [Устранение неполадок подсистемы Windows для Linux](troubleshooting.md).
 
-> **Сбой установки с ошибкой 0x8007007e**. Эта ошибка возникает, когда система не поддерживает Linux из Store.  Убедитесь в следующем.
+> **Сбой установки с ошибкой 0x8007007e**.
+> Эта ошибка возникает, когда система не поддерживает Linux из Store.  Убедитесь в следующем.
 > * Вы используете сборку Windows 16215 или более позднюю версию. [Проверьте используемую сборку](troubleshooting.md#check-your-build-number).
 > * Дополнительный компонент "Подсистема Windows для Linux" включен, а компьютер был перезагружен.  [Убедитесь, что WSL включен](troubleshooting.md#confirm-wsl-is-enabled).
