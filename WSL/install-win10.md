@@ -9,7 +9,7 @@ ms.openlocfilehash: bab21722e77a0879db70e21003fb237491d99218
 ms.sourcegitcommit: 90577817a9321949da2a3971b4c78bb00f6d977f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2020
+ms.lasthandoff: 09/01/2020
 ms.locfileid: "88039445"
 ---
 # <a name="windows-subsystem-for-linux-installation-guide-for-windows-10"></a>Руководство по установке подсистемы Windows для Linux в Windows 10
