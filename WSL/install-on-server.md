@@ -1,16 +1,16 @@
 ---
 title: Установка подсистемы Linux в Windows Server
-description: Инструкции по установке для подсистемы Linux в Windows Server.
+description: Узнайте, как установить подсистему Linux на Windows Server. WSL предоставляется для установки на Windows Server 2019 (версия 1709) и более поздних версий.
 keywords: BashOnWindows, bash, wsl, windows, подсистема windows для linux, windowssubsystem, ubuntu, windows server
 ms.date: 05/12/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: ebcd7f6b10d2b734b1f2a66f64a5e3292855bcf4
-ms.sourcegitcommit: 5d3898772851e6ac9a310f219cc0d71278f95d22
+ms.openlocfilehash: 501bbf78c2d9f59dad945af9c30571317240b79f
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84671024"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88866148"
 ---
 # <a name="windows-server-installation-guide"></a>Руководство по установке Windows Server
 

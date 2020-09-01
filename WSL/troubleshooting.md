@@ -5,12 +5,12 @@ keywords: BashOnWindows, bash, wsl, windows, windowssubsystem, ubuntu
 ms.date: 01/20/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: cc8f032a99fb087b7ef614dd3a3574cb8ee3f2da
-ms.sourcegitcommit: ba52d673c123fe8ae61e872a33e218cfc30a1f82
+ms.openlocfilehash: 84aecf4f6111cca47ece3c2421be659fb5a27771
+ms.sourcegitcommit: a5534257c236cefeebe86e6b3fc4be0be8fac24e
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "86033067"
+ms.locfileid: "88714852"
 ---
 # <a name="troubleshooting-windows-subsystem-for-linux"></a>Устранение неполадок подсистемы Windows для Linux
 
@@ -49,12 +49,12 @@ Error: 0x1bc
 For information on key differences with WSL 2 please visit https://aka.ms/wsl2
 ```
 
-Сама же ошибка `0x1bc` связана с ядром:
+Фактическая ошибка для `0x1bc`:
 ```
 WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel
 ```
 
-Для более подробной информации, проверьте ветку [№ 5749](https://github.com/microsoft/WSL/issues/5749)
+См. сведения о в ветке [№ 5749](https://github.com/microsoft/WSL/issues/5749).
 
 
 ### <a name="cannot-access-wsl-files-from-windows"></a>Не удается получить доступ к файлам WSL из Windows

@@ -5,12 +5,12 @@ keywords: заметки о выпуске, wsl, windows, подсистема w
 ms.date: 06/09/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: e2409fccada9077adbeac3843c31b8faa2c93208
-ms.sourcegitcommit: f1b049a1276782d4f2754f46a8d2025b598a0784
+ms.openlocfilehash: ffec37d179005eb7015a8f9af8de0ac185710bec
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "85336057"
+ms.locfileid: "88866115"
 ---
 # <a name="release-notes-for-windows-subsystem-for-linux-kernel"></a>Заметки о выпуске подсистемы Windows для ядра Linux
 

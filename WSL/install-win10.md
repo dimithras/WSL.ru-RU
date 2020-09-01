@@ -1,16 +1,16 @@
 ---
 title: Установка подсистемы Windows для Linux (WSL) в Windows 10
-description: Инструкции по установке подсистемы Windows для Linux в Windows 10.
+description: Узнайте, как установить подсистему Windows для Linux в Windows 10. Windows 10 необходимо обновить до версии 2004, сборки 19041 или выше.
 keywords: BashOnWindows, bash, wsl, windows, подсистема windows для linux, windowssubsystem, ubuntu, debian, suse, windows 10, установка, включить, WSL2, версия 2
 ms.date: 08/31/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: bab21722e77a0879db70e21003fb237491d99218
-ms.sourcegitcommit: 90577817a9321949da2a3971b4c78bb00f6d977f
+ms.openlocfilehash: 23c72c0e82c90c23fc0406b56dbf8accad0e39df
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "88039445"
+ms.locfileid: "88866164"
 ---
 # <a name="windows-subsystem-for-linux-installation-guide-for-windows-10"></a>Руководство по установке подсистемы Windows для Linux в Windows 10
 
@@ -30,7 +30,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 Чтобы выполнить обновление до WSL 2, необходимо выполнить следующие условия:
 
-- Использовать Windows 10 с [обновлением до версии 1903](ms-settings:windowsupdate), **сборкой 18362** или более поздней версии для 64-битных систем.
+- Использовать Windows 10 с [обновлением до версии 1903 или выше](ms-settings:windowsupdate), **сборкой 18362** или более поздней версии для 64-битных систем.
 - Использовать Windows 10 с [обновлением до версии 2004](ms-settings:windowsupdate), **сборкой 19041** или более поздней версии для ARM64 систем.
 - Обратите внимание: если вы используете Windows 10 версии 1093 или 1090, убедитесь, что у вас правильный патч для данной версии. Инструкции описаны [здесь](https://devblogs.microsoft.com/commandline/wsl-2-support-is-coming-to-windows-10-versions-1903-and-1909/#how-do-i-get-it).
 

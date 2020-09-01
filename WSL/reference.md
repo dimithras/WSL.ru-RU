@@ -1,16 +1,16 @@
 ---
 title: Справочные материалы по командам подсистемы Windows для Linux
-description: Список команд для управления подсистемой Windows для Linux.
+description: См. список команд, управляющих подсистемой Windows для Linux, включая аргументы для выполнения команд Linux.
 keywords: BashOnWindows, bash, wsl, windows, подсистема windows для linux, windowssubsystem, ubuntu
 ms.date: 07/31/2017
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: 72b78a73bf68b28dd14b4826943a0c81ea04bbad
-ms.sourcegitcommit: 1b6191351bbf9e95f3c28fc67abe4bf1bcfd3336
+ms.openlocfilehash: fc5c9e06c597092a3790ba7f9eb06054a33450c1
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "83270878"
+ms.locfileid: "88866131"
 ---
 # <a name="command-reference-for-windows-subsystem-for-linux"></a>Справочные материалы по командам подсистемы Windows для Linux
 
@@ -60,7 +60,7 @@ wsl --set-default-version 2
 
   Если командная строка не указана, wsl.exe запускает оболочку по умолчанию.
 
-* **--exec, -e \<командная_строка>**
+* **--exec, -e \<CommandLine>**
   
   Выполнение указанной команды без использования оболочки Linux по умолчанию.
 
@@ -70,21 +70,21 @@ wsl --set-default-version 2
 
 Приведенные выше команды также принимают следующие параметры.
 
-* **--distribution, -d \<дистрибутив>**
+* **--distribution, -d \<Distro>**
 
   Запуск указанного дистрибутива.
 
-* **--user, -u \<имя_пользователя>**
+* **--user, -u \<UserName>**
 
   Выполнение от имени указанного пользователя.
 
 ### <a name="arguments-for-managing-windows-subsystem-for-linux"></a>Аргументы для управления подсистемой Windows для Linux
 
-* **--export \<дистрибутив> \<имя_файла>**
+* **--export \<Distro> \<FileName>**
   
   Экспорт дистрибутива в TAR-файл. Именем файла может быть "-" для стандартного вывода.
 
-* **--import \<дистрибутив> \<расположение_установки> \<имя_файла>**
+* **--import \<Distro> \<InstallLocation> \<FileName>**
   
   Импорт указанного TAR-файла в качестве нового дистрибутива. Именем файла может быть "-" для стандартного ввода.
 
@@ -101,15 +101,15 @@ wsl --set-default-version 2
 
     Вывод списка всех дистрибутивов, выполняемых в данный момент.
 
-* **--set-default, -s \<дистрибутив>**
+* **--set-default, -s \<Distro>**
   
   Указание дистрибутива, используемого по умолчанию.
 
-* **--terminate, -t \<дистрибутив>**
+* **--terminate, -t \<Distro>**
   
   Завершение указанного дистрибутива.
 
-* **--unregister \<дистрибутив>**
+* **--unregister \<Distro>**
   
   Отмените регистрацию дистрибутива.
 
@@ -166,7 +166,7 @@ wsl --set-default-version 2
   
   Команда `bash ~` запускает оболочку Bash в корневом каталоге пользователя.  Это аналог команды `cd ~`.
 
-* **-c "\<команда>"**
+* **-c \<command>**
   
   Выполнение команды, вывод выходных данных и возврат в командную строку Windows.
 

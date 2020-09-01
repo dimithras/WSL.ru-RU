@@ -1,16 +1,16 @@
 ---
 title: WSL 2
-description: Подсистема Windows для Linux 2
+description: Узнайте о новых возможностях подсистемы Windows для Linux 2. Просмотрите дополнительные доступные ресурсы, например об обновлении версии WSL, и часто задаваемые вопросы.
 keywords: BashOnWindows, bash, wsl, wsl2, windows, подсистема Windows для Linux, windowssubsystem, ubuntu, debian, suse, windows 10, установка
 ms.date: 05/12/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: 6ed3c98fa674e595b2fb05a989ab72f38cf45cbe
-ms.sourcegitcommit: eaceda3589b9bd777e0fead5ef33bb16060a55d2
+ms.openlocfilehash: fe9d9e2d2bbb13091722e0303bd98d20677415a9
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84978237"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88866019"
 ---
 # <a name="whats-new-in-wsl-2"></a>Новые возможности в WSL 2
 

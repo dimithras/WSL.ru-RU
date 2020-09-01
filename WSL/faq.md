@@ -1,17 +1,17 @@
 ---
 title: Вопросы и ответы
-description: Часто задаваемые вопросы о подсистеме Windows для Linux.
+description: Найдите ответы на часто задаваемые вопросы о подсистеме Windows для Linux, например о том, что можно сделать с помощью WSL.
 keywords: BashOnWindows, bash, wsl, windows, windowssubsystem, часто задаваемые вопросы
 ms.date: 9/4/2018
 ms.topic: article
 ms.assetid: 129101ed-b88a-43c2-b6a2-cd2c4ff6fee1
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3ebb44c139b5e7b8c25e8e813766b0107426dc
-ms.sourcegitcommit: 97cc93f8e26391c09a31a4ab42c4b5e9d98d1c32
+ms.openlocfilehash: 9a9f287ceb2ae93286999ed32d655198c8a390c8
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86948638"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88866151"
 ---
 # <a name="frequently-asked-questions-about-windows-subsystem-for-linux"></a>Часто задаваемые вопросы о подсистеме Windows для Linux
 

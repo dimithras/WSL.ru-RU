@@ -1,17 +1,17 @@
 ---
 title: Заметки о выпуске подсистемы Windows для Linux
-description: Заметки о выпуске подсистемы Windows для Linux.  Обновляются еженедельно.
+description: См. заметки о выпуске подсистемы Windows для Linux. Эти заметки о выпуске содержат исправленные проблемы и обновляются еженедельно.
 keywords: заметки о выпуске, wsl, windows, подсистема windows для linux, windowssubsystem, ubuntu
 author: benhillis
 ms.date: 05/15/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: 751f7dd73abeefe7be0406c17b95158ee21b9199
-ms.sourcegitcommit: b79bf1d5f158f09e858184a6dfd096e212c1a231
+ms.openlocfilehash: 57d06a8666f8003b187f043bd18655a9287d8a63
+ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "88161046"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88866105"
 ---
 # <a name="release-notes-for-windows-subsystem-for-linux"></a>Заметки о выпуске подсистемы Windows для Linux
 
