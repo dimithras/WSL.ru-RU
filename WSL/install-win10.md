@@ -5,12 +5,12 @@ keywords: BashOnWindows, bash, wsl, windows, подсистема windows для
 ms.date: 08/31/2020
 ms.topic: article
 ms.localizationpriority: high
-ms.openlocfilehash: 23c72c0e82c90c23fc0406b56dbf8accad0e39df
-ms.sourcegitcommit: fb79750bd71d6ebaed5203b3de71ba85a67227b1
+ms.openlocfilehash: 14e1697d1f2ac7a1efa17368be830a5c22973bc6
+ms.sourcegitcommit: 910845e9b3f980b2c5b9b4968331a706720603c6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "88866164"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89058499"
 ---
 # <a name="windows-subsystem-for-linux-installation-guide-for-windows-10"></a>Руководство по установке подсистемы Windows для Linux в Windows 10
 

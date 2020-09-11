@@ -5,12 +5,12 @@ keywords: WSL, Windows, виндовссубсистем, GNU, Linux, bash, Git,
 ms.date: 06/04/2020
 ms.topic: article
 ms.localizationpriority: medium
-ms.openlocfilehash: 550355ea77c97d68130c8d85e9aef2a6b49ffe63
-ms.sourcegitcommit: eaceda3589b9bd777e0fead5ef33bb16060a55d2
+ms.openlocfilehash: c48234be5c3867d771363aaa5e630d8ebe378364
+ms.sourcegitcommit: 6ff046993e9f196cdfa04f5f91130e0e4ff1e7fa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84978247"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427221"
 ---
 # <a name="get-started-using-git-on-windows-subsystem-for-linux"></a>Приступая к работе с Git в подсистеме Windows для Linux
 
@@ -54,13 +54,13 @@ sudo apt-get install git
 Чтобы настроить файл конфигурации Git, откройте командную строку, в которой вы работаете, и задайте свое имя с помощью этой команды (заменив "Ваше имя" на имя пользователя Git):
 
 ```bash
- `git config --global user.name "Your Name"`
+git config --global user.name "Your Name"
 ```
 
 Задайте свою электронную почту с помощью этой команды (заменив " youremail@domain.com " на адрес электронной почты, используемый в вашей учетной записи Git):
 
 ```bash
-`git config --global user.email "youremail@domain.com"`
+git config --global user.email "youremail@domain.com"
 ```
 
 > [!TIP]
